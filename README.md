@@ -1,4 +1,4 @@
-# naija-districts-constituencies
+# HTML-CV
 
 This is a barebone HTML structure for my CV.
 
